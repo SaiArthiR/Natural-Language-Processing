@@ -1,1 +1,1 @@
-# nlp
+This is a text summarization project in NLP
