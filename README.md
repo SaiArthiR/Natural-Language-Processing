@@ -1,1 +1,1 @@
-This is a text summarization project in NLP
+This is a text summarization project in Python
